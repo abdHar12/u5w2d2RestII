@@ -14,4 +14,6 @@ public class Blogpost {
     String cover;
     String content;
     int timeOfReading;
+
+
 }
